@@ -1,4 +1,4 @@
 # EmployeeManagementSystem
-It's a web application which is used to manage employees of a company.
+  Web app used to manage employees of a organisation.
 
 Tech Stack: Java Servlet, JSP, MySql
